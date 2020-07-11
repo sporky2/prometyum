@@ -1,0 +1,51 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "cowsay": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "dblapi.js": "^2.4.0",
+    "discord-player": "^1.3.10",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.2",
+    "generate-password": "^1.5.1",
+    "google-play-scraper": "^7.1.3",
+    "isgd": "^1.1.3",
+    "jimp": "^0.13.0",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "node-opus": "^0.3.3",
+    "node-superfetch": "^0.1.10",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "quick.hook": "^1.5.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^5.2.2",
+    "tcmb-doviz": "^1.0.6",
+    "yodasay": "^1.1.9",
+    "ytdl-core": "^3.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "",
+    ""
+  ]
+}
